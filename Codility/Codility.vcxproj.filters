@@ -27,6 +27,9 @@
     <ClCompile Include="OddOccurrencesInArray.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="FrogJmp.c">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BinaryGap.h">
@@ -36,6 +39,9 @@
       <Filter>Headerdateien</Filter>
     </ClInclude>
     <ClInclude Include="OddOccurrencesInArray.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="FrogJmp.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
