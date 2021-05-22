@@ -1,0 +1,1 @@
+int solution_TapeEquilibrium(int A[], int N);

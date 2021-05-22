@@ -30,6 +30,12 @@
     <ClCompile Include="FrogJmp.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="PermMissingElem.c">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="TapeEquilibrium.c">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BinaryGap.h">
@@ -42,6 +48,12 @@
       <Filter>Headerdateien</Filter>
     </ClInclude>
     <ClInclude Include="FrogJmp.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="PermMissingElem.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="TapeEquilibrium.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
