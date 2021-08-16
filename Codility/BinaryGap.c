@@ -30,8 +30,4 @@ int solution_BinaryGap(int N) {
 	printf("\n %d", counter_max);
 	getch();
 	return counter_max;
-	
-
-
-
 }

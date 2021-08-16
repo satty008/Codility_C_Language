@@ -36,6 +36,21 @@
     <ClCompile Include="TapeEquilibrium.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="MissingPositiveNr.c">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CountDiv.c">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="MinAvgTwoSlice.c">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Distinct.c">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BinaryGap.h">
@@ -54,6 +69,21 @@
       <Filter>Headerdateien</Filter>
     </ClInclude>
     <ClInclude Include="TapeEquilibrium.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="MissingPositiveNr.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="test.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="CountDiv.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="MinAvgTwoSlice.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Distinct.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>

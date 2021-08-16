@@ -1,0 +1,1 @@
+int MissingPositiveNr(int A[], int N);

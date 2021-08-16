@@ -1,0 +1,1 @@
+int solution_CountDiv(int A, int B, int K);

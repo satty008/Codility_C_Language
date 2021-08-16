@@ -1,0 +1,1 @@
+int solution_MinAvgTwoSlice(int A[], int N);

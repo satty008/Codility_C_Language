@@ -140,20 +140,30 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BinaryGap.c" />
+    <ClCompile Include="CountDiv.c" />
     <ClCompile Include="CyclicRotation.c" />
+    <ClCompile Include="Distinct.c" />
     <ClCompile Include="FrogJmp.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="MinAvgTwoSlice.c" />
+    <ClCompile Include="MissingPositiveNr.c" />
     <ClCompile Include="OddOccurrencesInArray.c" />
     <ClCompile Include="PermMissingElem.c" />
     <ClCompile Include="TapeEquilibrium.c" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BinaryGap.h" />
+    <ClInclude Include="CountDiv.h" />
     <ClInclude Include="CyclicRotation.h" />
+    <ClInclude Include="Distinct.h" />
     <ClInclude Include="FrogJmp.h" />
+    <ClInclude Include="MinAvgTwoSlice.h" />
+    <ClInclude Include="MissingPositiveNr.h" />
     <ClInclude Include="OddOccurrencesInArray.h" />
     <ClInclude Include="PermMissingElem.h" />
     <ClInclude Include="TapeEquilibrium.h" />
+    <ClInclude Include="test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
